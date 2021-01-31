@@ -1,0 +1,6 @@
+name: mu-editor
+channels:
+  - defaults
+dependencies:
+  - flake8
+  - python=3.7
